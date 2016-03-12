@@ -1,0 +1,28 @@
+
+.home {
+	margin-bottom: 2em;
+}
+
+.home h1 {
+	font-size: 2em;
+}
+
+.home h2 {
+	font-size: 1.5em;
+	margin-bottom: 0;
+		@include breakpoint($mobile) {
+			font-size: 1.2em;
+		}
+}
+
+.home h3 {
+	font-size: 1em;
+	margin-bottom: 0;
+	padding-bottom: 0;
+		@include breakpoint($mobile) {
+			font-size: .9em;
+			font-weight: normal;
+		}
+}
+
+

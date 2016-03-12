@@ -1,0 +1,10 @@
+<header>
+	<section class="header-container">
+		<div class="header-logo">
+			<img src="images/pk-circle-100.png" alt="">
+		</div>
+		<div class="header-name">
+			<h1>Peter Kaizer</h1>
+		</div>
+	</section>
+</header>

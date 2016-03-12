@@ -1,0 +1,21 @@
+header h1 {
+	font-size: 1.5em;
+}
+
+.header-container {
+	@include container;
+	padding-top: .5em;
+	padding-bottom: .25em;
+}
+
+.header-logo {
+	@include span(1)
+}
+
+.header-name {
+	@include span(3)
+}
+
+.header-name h1 {
+	font-size: 2.5em;
+}

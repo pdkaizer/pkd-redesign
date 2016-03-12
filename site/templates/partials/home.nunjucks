@@ -1,0 +1,56 @@
+<div class="page-area home">
+	<section class="article-listing">
+
+		<h1>Links & Musings</h1>
+
+		<article class="home">
+			<h2><a href="">We need more respect in our political discourse</a></h2>
+			<h3>February 15, 2016</h3>
+			<p>Can Justice Ginsburg’s moving tribute to her friend Justice Scalia be an example to behave better... I hope so...</p>
+		</article>
+		
+		<article class="home">
+			<h2><a href="">Hillary Clinton campaign logo</a></h2>
+			<h3>April 19, 2015</h3>
+			<p>More on the evolving saga of the Hillary Clinton campaign logo...</p>
+		</article>
+
+		<article class="home">
+			<h2><a href="">UX Camp DC</a></h2>
+			<h3>January 5, 2015</h3>
+			<p>My Design Deliverables presentation at UX Camp DC</p>
+		</article>
+
+		<article class="home">
+			<h2><a href="">Design deliverables and the design process in a multi-viewport era</a></h2>
+			<h3>June 9, 2014</h3>
+			<p>A great presentation about some new ways to approach the design process and what design deliverables to present a client.</p>
+		</article>
+
+		<article class="home">
+			<h2><a href="">Style guides</a></h2>
+			<h3>May 27, 2014</h3>
+			<p>A selection of articles on html style guides.</p>
+		</article>
+
+		<article class="home">
+			<h2><a href="">HTML wireframes</a></h2>
+			<h3>May 21, 2014</h3>
+			<p>Great post from Brad Frost on why static high fidelity wireframes are no longer the way to go. Instead create your wireframes in HTML and CSS. I have been doing this for a while now.</p>	
+		</article>
+		
+		<h3>See all posts</h3>
+
+	</section>
+
+	<section class="sidebar">
+
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		
+	</section>
+</div>
